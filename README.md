@@ -18,13 +18,10 @@ We are going to use different technologies such as Python, Amazon Web Services (
 5. EC2
 - Apache Kafka
 
+## For AWS Athena and AWS glue - please refer video link mentioned below.
+## You will be able to access realtime stock market data that we have uploaded in s3 bucket
+## by using AWS Glue (serverless data integration service.)
+## Also You will be able to query that data to get some valuable insights 
+## by using AWS Athena (Serverless query service.) 
 
-## Dataset Used
-You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
-
-Here is the dataset used in the video - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
-
-
-## Complete Video Tutorial 
-
-Video Link - https://www.youtube.com/embed/KerNf0NANMo
+aws glue - https://youtu.be/KerNf0NANMo
